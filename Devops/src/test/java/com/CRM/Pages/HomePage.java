@@ -10,7 +10,7 @@ public class HomePage {
 
 	private WebDriver driver;
 
-	// initialize driver
+	// initialize driverr
 
 	public HomePage(WebDriver driver)//base class driver
 	{
