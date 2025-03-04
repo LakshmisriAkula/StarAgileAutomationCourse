@@ -21,7 +21,7 @@ public class HomePage {
 
 	private By link = By.linkText("Sign In");
 
-//method(functionality to test)
+//method(functionality to testt)
 
 	public String getAppUrl() 
 	{
